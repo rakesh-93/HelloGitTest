@@ -13,6 +13,11 @@
 		C26EDB002119A3B80062EC16 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C26EDAFF2119A3B80062EC16 /* Assets.xcassets */; };
 		C26EDB032119A3B80062EC16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C26EDB012119A3B80062EC16 /* LaunchScreen.storyboard */; };
 		C26EDB0B2119A3FB0062EC16 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26EDB0A2119A3FB0062EC16 /* SecondViewController.swift */; };
+		C26EDB0D2119A4320062EC16 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26EDB0C2119A4320062EC16 /* ThirdViewController.swift */; };
+		C26EDB0F2119CF0B0062EC16 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26EDB0E2119CF0B0062EC16 /* FourthViewController.swift */; };
+		C26EDB112119D3280062EC16 /* FifthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26EDB102119D3280062EC16 /* FifthViewController.swift */; };
+		C26EDB132119D3A60062EC16 /* SixthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26EDB122119D3A60062EC16 /* SixthViewController.swift */; };
+		C26EDB152119D3E00062EC16 /* SeventhViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C26EDB142119D3E00062EC16 /* SeventhViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,11 @@
 		C26EDB022119A3B80062EC16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C26EDB042119A3B80062EC16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C26EDB0A2119A3FB0062EC16 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		C26EDB0C2119A4320062EC16 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		C26EDB0E2119CF0B0062EC16 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
+		C26EDB102119D3280062EC16 /* FifthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewController.swift; sourceTree = "<group>"; };
+		C26EDB122119D3A60062EC16 /* SixthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixthViewController.swift; sourceTree = "<group>"; };
+		C26EDB142119D3E00062EC16 /* SeventhViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeventhViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +69,11 @@
 				C26EDAF82119A3B60062EC16 /* AppDelegate.swift */,
 				C26EDAFA2119A3B60062EC16 /* ViewController.swift */,
 				C26EDB0A2119A3FB0062EC16 /* SecondViewController.swift */,
+				C26EDB0C2119A4320062EC16 /* ThirdViewController.swift */,
+				C26EDB0E2119CF0B0062EC16 /* FourthViewController.swift */,
+				C26EDB102119D3280062EC16 /* FifthViewController.swift */,
+				C26EDB122119D3A60062EC16 /* SixthViewController.swift */,
+				C26EDB142119D3E00062EC16 /* SeventhViewController.swift */,
 				C26EDAFC2119A3B60062EC16 /* Main.storyboard */,
 				C26EDAFF2119A3B80062EC16 /* Assets.xcassets */,
 				C26EDB012119A3B80062EC16 /* LaunchScreen.storyboard */,
@@ -138,9 +153,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C26EDB112119D3280062EC16 /* FifthViewController.swift in Sources */,
+				C26EDB132119D3A60062EC16 /* SixthViewController.swift in Sources */,
+				C26EDB152119D3E00062EC16 /* SeventhViewController.swift in Sources */,
 				C26EDB0B2119A3FB0062EC16 /* SecondViewController.swift in Sources */,
 				C26EDAFB2119A3B60062EC16 /* ViewController.swift in Sources */,
+				C26EDB0D2119A4320062EC16 /* ThirdViewController.swift in Sources */,
 				C26EDAF92119A3B60062EC16 /* AppDelegate.swift in Sources */,
+				C26EDB0F2119CF0B0062EC16 /* FourthViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
